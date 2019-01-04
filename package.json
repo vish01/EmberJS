@@ -1,0 +1,14 @@
+{
+  "name": "emberjs",
+  "version": "1.0.0",
+  "description": "Application made using Express JS and Ember JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "TestJS"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
